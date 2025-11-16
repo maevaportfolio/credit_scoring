@@ -149,11 +149,7 @@
 
 ## 1. 🎯 Objectif général
 
-L’objectif de cette étape est d’analyser les relations entre les variables après discrétisation, afin de détecter la **multicolinéarité**, repérer les **variables redondantes**, et préparer correctement les données pour les étapes suivantes du pipeline de scoring :
-
-- Weight of Evidence (WoE)
-- Information Value (IV)
-- Modélisation / Scorecard
+L’objectif de cette étape est d’analyser les relations entre les variables après discrétisation, afin de détecter la **multicolinéarité**, repérer les **variables redondantes**, et préparer correctement les données pour les étapes suivantes.
 
 Après la discrétisation, toutes les variables sont **catégorielles**, ce qui nécessite des méthodes adaptées.
 
