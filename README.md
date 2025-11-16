@@ -180,11 +180,7 @@ Cette étape permet de :
 - ✔️ Évaluer la dépendance statistique entre variables  
 - ✔️ Détecter des corrélations fortes entre variables discrétisées  
 - ✔️ Identifier des variables dupliquées ou redondantes  
-- ✔️ Préparer la suite du pipeline :
-
-  → WoE  
-  → IV  
-  → Construction de la scorecard  
+- ✔️ Préparer la suite du pipeline
 
 Elle contribue à garantir un modèle :
 
